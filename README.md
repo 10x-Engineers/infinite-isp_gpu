@@ -4,7 +4,7 @@ Proprietary commercial-grade CUDA-accelerated ISP purpose-built for NVIDIA® Jet
 
 <img src="https://10xengineers.ai/wp-content/uploads/cropped-square-logo-270x270.png" width="80" alt="10xEngineers Logo"/>
 
-# CUDA ISP
+# Infinite-ISP_GPU
 
 ### GPU-Accelerated Image Signal Processing for NVIDIA Jetson & x86
 
